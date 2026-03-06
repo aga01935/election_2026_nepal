@@ -70,28 +70,43 @@ class NepalElectionScraper:
 
     def run(self):
         all_results = {}
-        print(f"--- Starting Full Scrape (165 Regions) at {datetime.now()} ---")
+        timestamp = datetime.now().strftime("%Y-%m-%d %I:%M %p")
+        print(f"--- Starting Full Scrape at {timestamp} ---")
         
         for region in self.constituencies:
-            print(f"Scraping {region}...")
             data = self.scrape_constituency(region)
-            
-            # Map colors to parties
             for candidate in data:
                 candidate['color'] = self.party_colors.get(candidate['party'], "#808080")
-            
             all_results[region] = data
-            # Small sleep to avoid getting IP blocked by ECN/Ekantipur
-            time.sleep(0.1)
+            time.sleep(0.05) 
 
-        payload = {
-            "last_updated": datetime.now().strftime("%Y-%m-%d %I:%M %p"),
-            "data": all_results
-        }
-
+        # 1. Update the "Latest" file (for the current chart)
+        payload = {"last_updated": timestamp, "data": all_results}
         with open('election_data.json', 'w') as f:
             json.dump(payload, f, indent=4)
-        print("--- Scrape Complete: election_data.json updated ---")
+
+        # 2. Update the "History" file (for the timeline animation)
+        history_file = 'election_history.json'
+        try:
+            with open(history_file, 'r') as f:
+                history = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            history = []
+
+        # Add this snapshot to the timeline
+        history.append({
+            "timestamp": timestamp,
+            "snapshot": all_results
+        })
+
+        # Keep only the last 100 snapshots to prevent the file from getting too huge
+        if len(history) > 100:
+            history = history[-100:]
+
+        with open(history_file, 'w') as f:
+            json.dump(history, f, indent=4)
+            
+        print("--- Scrape Complete: History updated ---")
 
 if __name__ == "__main__":
     scraper = NepalElectionScraper()

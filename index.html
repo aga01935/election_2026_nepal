@@ -2,67 +2,75 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Nepal Election 2026 - Live Tracker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nepal 2026 Election Tracker - Tabbed View</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Inter', sans-serif; background: #0f172a; color: white; padding: 40px; }
-        .container { max-width: 800px; margin: auto; background: #1e293b; padding: 20px; border-radius: 12px; }
-        .badge { background: #ef4444; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; animation: pulse 2s infinite; }
-        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
-        select { width: 100%; padding: 10px; margin: 20px 0; border-radius: 6px; }
-        .meta { color: #94a3b8; font-size: 0.9rem; margin-top: 10px; }
+        :root {
+            --bg: #0f172a;
+            --card: #1e293b;
+            --accent: #3b82f6;
+            --text: #f8fafc;
+        }
+
+        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 10px; }
+        .container { max-width: 1000px; margin: 20px auto; background: var(--card); border-radius: 12px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        
+        /* Header & Live Pulse */
+        .header { padding: 20px; border-bottom: 1px solid #334155; display: flex; justify-content: space-between; align-items: center; }
+        .live-pulse { color: #ef4444; font-size: 0.8rem; font-weight: bold; display: flex; align-items: center; gap: 5px; }
+        .pulse-dot { width: 8px; height: 8px; background: #ef4444; border-radius: 50%; animation: blink 1.5s infinite; }
+        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+
+        /* Tabs Styling */
+        .tabs-container { display: flex; background: #111827; overflow-x: auto; white-space: nowrap; scrollbar-width: none; }
+        .tabs-container::-webkit-scrollbar { display: none; }
+        .tab { padding: 15px 20px; cursor: pointer; border-bottom: 3px solid transparent; color: #94a3b8; font-weight: 600; transition: 0.3s; }
+        .tab.active { color: var(--accent); border-bottom-color: var(--accent); background: #1e293b; }
+
+        /* Grid View for Constituencies */
+        .grid-container { padding: 20px; display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px; max-height: 200px; overflow-y: auto; background: #111827; margin: 10px 20px; border-radius: 8px; }
+        .region-btn { background: #334155; border: 1px solid #475569; color: white; padding: 8px; border-radius: 4px; cursor: pointer; font-size: 0.85rem; transition: 0.2s; }
+        .region-btn:hover { background: var(--accent); }
+        .region-btn.selected { background: var(--accent); border-color: white; }
+
+        /* Chart Area */
+        .chart-section { padding: 20px; height: 350px; }
+        .meta-text { padding: 0 20px 20px; font-size: 0.8rem; color: #64748b; text-align: right; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1><span class="badge">LIVE</span> Nepal Election Tracker 2026</h1>
-        <p class="meta">Last Scraped: <span id="time-stamp">--</span></p>
-        
-        <select id="constituency-select" onchange="updateChart()">
-            <option value="Jhapa-5">Jhapa-5</option>
-            <option value="Kathmandu-3">Kathmandu-3</option>
-        </select>
 
-        <canvas id="electionChart" height="200"></canvas>
+<div class="container">
+    <div class="header">
+        <div>
+            <h1 style="margin:0; font-size: 1.4rem;">Election 2026 Results</h1>
+            <div class="live-pulse"><span class="pulse-dot"></span> LIVE DATA FEED</div>
+        </div>
+        <div style="text-align:right">
+            <div id="update-time" style="font-size: 0.9rem; font-weight: bold;">--:--</div>
+            <div style="font-size: 0.7rem; color: #94a3b8;">LAST UPDATED</div>
+        </div>
     </div>
 
-    <script>
-        let chartInstance = null;
-        let globalData = {};
+    <div class="tabs-container" id="province-tabs">
+        </div>
 
-        async function init() {
-            const res = await fetch('./election_data.json');
-            const json = await res.json();
-            globalData = json.data;
-            document.getElementById('time-stamp').innerText = json.last_updated;
-            updateChart();
-        }
+    <div class="grid-container" id="constituency-grid">
+        </div>
 
-        function updateChart() {
-            const val = document.getElementById('constituency-select').value;
-            const candidates = globalData[val] || [];
-            
-            const ctx = document.getElementById('electionChart').getContext('2d');
-            if (chartInstance) chartInstance.destroy();
+    <div class="chart-section">
+        <canvas id="mainChart"></canvas>
+    </div>
 
-            chartInstance = new Chart(ctx, {
-                type: 'bar',
-                data: {
-                    labels: candidates.map(c => c.name),
-                    datasets: [{
-                        data: candidates.map(c => c.votes),
-                        backgroundColor: candidates.map(c => c.color)
-                    }]
-                },
-                options: {
-                    indexAxis: 'y',
-                    plugins: { legend: { display: false } },
-                    scales: { x: { grid: { color: '#334155' } }, y: { ticks: { color: 'white' } } }
-                }
-            });
-        }
+    <div class="meta-text" id="status-bar">
+        Source: ECN Official & Media Partners | Syncing every 5 minutes
+    </div>
+</div>
 
-        init();
-    </script>
-</body>
-</html>
+<script>
+    const provinces = {
+        "Koshi": ["Taplejung 1", "Panchthar 1", "Ilam 1", "Ilam 2", "Jhapa 1", "Jhapa 2", "Jhapa 3", "Jhapa 4", "Jhapa 5", "Morang 1", "Morang 2", "Morang 3", "Morang 4", "Morang 5", "Morang 6", "Sunsari 1", "Sunsari 2", "Sunsari 3", "Sunsari 4"],
+        "Madhesh": ["Saptari 1", "Saptari 2", "Siraha 1", "Dhanusha 1", "Dhanusha 3", "Parsa 1", "Bara 1"],
+        "Bag

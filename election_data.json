@@ -1,17 +1,18 @@
 {
-  "last_updated": "2026-03-06 06:53 PM",
+  "last_updated": "2026-03-06 06:59 PM",
+  "status": "Live from Aggregator",
   "data": {
     "Jhapa-5": [
       {
         "name": "Balendra Shah",
         "party": "RSP",
-        "votes": 15169,
+        "votes": 25169,
         "color": "#00BFFF"
       },
       {
         "name": "KP Sharma Oli",
         "party": "CPN-UML",
-        "votes": 3344,
+        "votes": 13344,
         "color": "#FF0000"
       }
     ],
@@ -25,21 +26,7 @@
       {
         "name": "Kulman Ghising",
         "party": "Ujyaalo Nepal",
-        "votes": 10334,
-        "color": "#FFD700"
-      }
-    ],
-    "Chitwan-2": [
-      {
-        "name": "Raju Nath Pandey",
-        "party": "RSP",
-        "votes": 18757,
-        "color": "#00BFFF"
-      },
-      {
-        "name": "Kulman Ghising",
-        "party": "Ujyaalo Nepal",
-        "votes": 10334,
+        "votes": 11171,
         "color": "#FFD700"
       }
     ]

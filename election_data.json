@@ -1,998 +1,2314 @@
 {
-    "last_updated": "2026-03-06 07:40 PM",
+    "last_updated": "2026-03-06 08:01 PM",
     "data": {
-        "Jhapa-1": [
+        "Taplejung-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Panchthar-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Ilam-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Ilam-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Jhapa-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Jhapa-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Jhapa-3": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Jhapa-4": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Jhapa-5": [
             {
-                "name": "Balen Shah",
-                "party": "RSP",
-                "votes": 25654,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "KP Sharma Oli",
-                "party": "CPN-UML",
-                "votes": 15344,
-                "color": "#FF0000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sankhuwasabha-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Tehrathum-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bhojpur-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dhankuta-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Morang-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Morang-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Morang-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Morang-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Morang-5": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Morang-6": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sunsari-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sunsari-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sunsari-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sunsari-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Solukhumbu-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Khotang-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Okhaldhunga-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Udayapur-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Udayapur-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Saptari-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Saptari-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Saptari-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Saptari-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Siraha-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Siraha-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Siraha-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Siraha-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dhanusha-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dhanusha-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dhanusha-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dhanusha-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Mahottari-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Mahottari-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Mahottari-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Mahottari-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sarlahi-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sarlahi-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sarlahi-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sarlahi-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rautahat-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rautahat-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rautahat-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rautahat-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bara-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bara-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bara-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bara-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Parsa-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Parsa-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Parsa-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Parsa-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dolakha-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Ramechhap-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sindhuli-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Sindhuli-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rasuwa-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dhading-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dhading-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Nuwakot-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Nuwakot-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-1": [
             {
-                "name": "Ranju Darshana",
-                "party": "RSP",
-                "votes": 15455,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "NC Candidate",
-                "party": "NC",
-                "votes": 6364,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-3": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-4": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-5": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-6": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-7": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-8": [
             {
-                "name": "Biraj Bhakta Shrestha",
-                "party": "RSP",
-                "votes": 24592,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Hamro Nepal",
-                "party": "IND",
-                "votes": 3217,
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
                 "color": "#808080"
             }
         ],
         "Kathmandu-9": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kathmandu-10": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Morang-1": [
+        "Bhaktapur-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Morang-2": [
+        "Bhaktapur-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Morang-3": [
+        "Lalitpur-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Morang-4": [
+        "Lalitpur-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Morang-5": [
+        "Lalitpur-3": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Morang-6": [
+        "Kavrepalanchok-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Sunsari-1": [
+        "Kavrepalanchok-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Sunsari-2": [
+        "Sindhupalchok-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Sunsari-3": [
+        "Sindhupalchok-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Sunsari-4": [
+        "Makwanpur-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Makwanpur-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Chitwan-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Chitwan-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Chitwan-3": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Kailali-1": [
+        "Gorkha-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Kailali-2": [
+        "Gorkha-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Kailali-3": [
+        "Manang-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Kailali-4": [
+        "Lamjung-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Kailali-5": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Rupandehi-1": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Rupandehi-2": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Rupandehi-3": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Rupandehi-4": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Rupandehi-5": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Dhanusha-1": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Dhanusha-2": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Dhanusha-3": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Dhanusha-4": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Saptari-1": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Saptari-2": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Saptari-3": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Saptari-4": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Siraha-1": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Siraha-2": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Siraha-3": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
-            }
-        ],
-        "Siraha-4": [
-            {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kaski-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kaski-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Kaski-3": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Tanahun-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Tanahun-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Syangja-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Syangja-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Nawalparasi-East-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Nawalparasi-East-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Mustang-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Myagdi-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Baglung-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Baglung-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Parbat-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Gulmi-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Gulmi-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Palpa-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Palpa-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Arghakhanchi-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Nawalparasi-West-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Nawalparasi-West-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rupandehi-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rupandehi-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rupandehi-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rupandehi-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rupandehi-5": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kapilvastu-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kapilvastu-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kapilvastu-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Dang-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Dang-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Dang-3": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Pyuthan-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rolpa-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Rukum-East-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bardiya-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bardiya-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Banke-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Banke-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
         "Banke-3": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Parsa-1": [
+        "Dolpa-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Parsa-2": [
+        "Mugu-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Parsa-3": [
+        "Humla-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Parsa-4": [
+        "Jumla-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Bara-1": [
+        "Kalikot-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Bara-2": [
+        "Dailekh-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Bara-3": [
+        "Dailekh-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Bara-4": [
+        "Jajarkot-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Sarlahi-1": [
+        "Rukum-West-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Sarlahi-2": [
+        "Salyan-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Sarlahi-3": [
+        "Surkhet-1": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ],
-        "Sarlahi-4": [
+        "Surkhet-2": [
             {
-                "name": "RSP Candidate",
-                "party": "RSP",
-                "votes": 12450,
-                "color": "#00BFFF"
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
             },
             {
-                "name": "Opponent",
-                "party": "NC",
-                "votes": 8120,
-                "color": "#008000"
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bajura-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Bajhang-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Achham-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Achham-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Doti-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kailali-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kailali-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kailali-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kailali-4": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kailali-5": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kanchanpur-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kanchanpur-2": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Kanchanpur-3": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Dadeldhura-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Baitadi-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
+            }
+        ],
+        "Darchula-1": [
+            {
+                "name": "Awaiting Count",
+                "party": "Awaiting Count",
+                "votes": 0,
+                "color": "#334155"
+            },
+            {
+                "name": "N/A",
+                "party": "N/A",
+                "votes": 0,
+                "color": "#808080"
             }
         ]
     }

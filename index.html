@@ -8,146 +8,104 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     
     <style>
-        :root {
-            --bg: #0f172a;
-            --card: #1e293b;
-            --accent: #3b82f6;
-            --text: #f8fafc;
-            --rsp-blue: #00BFFF;
-        }
+    :root {
+        --bg: #0f172a;
+        --card: #1e293b;
+        --accent: #3b82f6; /* Balen/RSP Blue */
+        --text: #f8fafc;
+        --success: #22c55e;
+        --danger: #ef4444;
+    }
 
-        body { 
-            font-family: 'Inter', sans-serif; 
-            background: var(--bg); 
-            color: var(--text); 
-            margin: 0; 
-            padding: 10px; 
-            display: flex;
-            justify-content: center;
-        }
+    /* Core Layout */
+    body { 
+        font-family: 'Inter', sans-serif; 
+        background: var(--bg); 
+        color: var(--text); 
+        margin: 0; 
+        padding: 10px; 
+    }
+    
+    .container { 
+        max-width: 1000px; 
+        margin: 20px auto; 
+        background: var(--card); 
+        border-radius: 12px; 
+        box-shadow: 0 10px 30px rgba(0,0,0,0.5); 
+        overflow: hidden;
+    }
 
-        .container { 
-            width: 100%;
-            max-width: 1000px; 
-            margin: 20px auto; 
-            background: var(--card); 
-            border-radius: 12px; 
-            overflow: hidden; 
-            box-shadow: 0 10px 30px rgba(0,0,0,0.5); 
-        }
-        
-        /* Header Section */
-        .header { 
-            padding: 25px; 
-            border-bottom: 1px solid #334155; 
-            display: flex; 
-            justify-content: space-between; 
-            align-items: center; 
-            background: #1e293b;
-        }
+    /* Timeline Styling */
+    .timeline-box {
+        margin: 15px;
+        padding: 15px 20px;
+        background: #0f172a;
+        border: 1px solid #334155;
+        border-radius: 10px;
+    }
 
-        .live-pulse { 
-            color: #ef4444; 
-            font-size: 0.85rem; 
-            font-weight: bold; 
-            display: flex; 
-            align-items: center; 
-            gap: 8px; 
-            margin-top: 5px;
-        }
+    .timeline-header {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+        align-items: center;
+    }
 
-        .pulse-dot { 
-            width: 10px; 
-            height: 10px; 
-            background: #ef4444; 
-            border-radius: 50%; 
-            animation: blink 1.5s infinite; 
-        }
+    .timeline-header label {
+        font-size: 0.7rem;
+        letter-spacing: 1px;
+        color: #64748b;
+        font-weight: 800;
+        text-transform: uppercase;
+    }
 
-        @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+    #slider-time {
+        font-size: 0.85rem;
+        color: var(--accent);
+        font-family: 'Courier New', monospace;
+    }
 
-        /* Tabs Styling */
-        .tabs-container { 
-            display: flex; 
-            background: #111827; 
-            overflow-x: auto; 
-            white-space: nowrap; 
-            scrollbar-width: none; 
-            border-bottom: 1px solid #334155;
-        }
+    .timeline-controls {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+    }
 
-        .tabs-container::-webkit-scrollbar { display: none; }
+    #play-btn {
+        background: var(--success);
+        border: none;
+        padding: 8px 18px;
+        border-radius: 6px;
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+        transition: 0.2s;
+        min-width: 90px;
+    }
 
-        .tab { 
-            padding: 18px 25px; 
-            cursor: pointer; 
-            border-bottom: 3px solid transparent; 
-            color: #94a3b8; 
-            font-weight: 600; 
-            transition: 0.3s; 
-            text-transform: uppercase;
-            font-size: 0.8rem;
-            letter-spacing: 0.5px;
-        }
+    #play-btn:hover { transform: scale(1.05); }
 
-        .tab.active { 
-            color: var(--accent); 
-            border-bottom-color: var(--accent); 
-            background: #1e293b; 
-        }
+    /* Custom Slider */
+    #timeline-slider {
+        flex-grow: 1;
+        cursor: pointer;
+        accent-color: var(--accent);
+        height: 6px;
+    }
 
-        /* Constituency Grid Selection */
-        .grid-container { 
-            padding: 20px; 
-            display: grid; 
-            grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); 
-            gap: 10px; 
-            max-height: 220px; 
-            overflow-y: auto; 
-            background: #0f172a; 
-            margin: 15px;
-            border-radius: 8px;
-            border: 1px solid #334155;
-        }
+    /* Chart Transition */
+    .chart-section {
+        padding: 20px;
+        height: 400px;
+        transition: opacity 0.3s ease;
+    }
 
-        .region-btn { 
-            background: #1e293b; 
-            border: 1px solid #334155; 
-            color: #cbd5e1; 
-            padding: 10px; 
-            border-radius: 6px; 
-            cursor: pointer; 
-            font-size: 0.8rem; 
-            transition: all 0.2s ease;
-            text-align: center;
-        }
-
-        .region-btn:hover { background: #334155; border-color: var(--accent); }
-        .region-btn.selected { 
-            background: var(--accent); 
-            border-color: #60a5fa; 
-            color: white; 
-            font-weight: bold; 
-        }
-
-        /* Chart Section */
-        .chart-section { padding: 25px; height: 400px; background: #1e293b; }
-        
-        .footer-meta { 
-            padding: 15px 25px; 
-            font-size: 0.8rem; 
-            color: #64748b; 
-            background: #111827; 
-            display: flex; 
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        @media (max-width: 600px) {
-            .header { flex-direction: column; text-align: center; gap: 15px; }
-            .grid-container { grid-template-columns: repeat(2, 1fr); }
-        }
-    </style>
+    /* Standard Elements from previous steps */
+    .tab { padding: 15px 20px; cursor: pointer; color: #94a3b8; }
+    .tab.active { color: var(--accent); border-bottom: 3px solid var(--accent); }
+    .region-btn { background: #334155; border: none; color: white; margin: 2px; padding: 5px 10px; border-radius: 4px; cursor: pointer; }
+    .region-btn.selected { background: var(--accent); }
+</style>
 </head>
 <body>
 
@@ -170,6 +128,16 @@
     <div class="chart-section">
         <canvas id="mainChart"></canvas>
     </div>
+    <div class="timeline-box">
+    <div class="timeline-header">
+        <label>HISTORICAL TIMELINE</label>
+        <span id="slider-time">Live Feed</span>
+    </div>
+    <div class="timeline-controls">
+        <button onclick="togglePlay()" id="play-btn">PLAY ▶</button>
+        <input type="range" id="timeline-slider" min="0" max="0" value="0" oninput="viewHistory(this.value)">
+    </div>
+</div>
 
     <div class="footer-meta">
         <span>&copy; 2026 Live Election Tracker</span>

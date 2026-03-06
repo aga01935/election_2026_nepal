@@ -1,0 +1,47 @@
+{
+  "last_updated": "2026-03-06 06:53 PM",
+  "data": {
+    "Jhapa-5": [
+      {
+        "name": "Balendra Shah",
+        "party": "RSP",
+        "votes": 15169,
+        "color": "#00BFFF"
+      },
+      {
+        "name": "KP Sharma Oli",
+        "party": "CPN-UML",
+        "votes": 3344,
+        "color": "#FF0000"
+      }
+    ],
+    "Kathmandu-3": [
+      {
+        "name": "Raju Nath Pandey",
+        "party": "RSP",
+        "votes": 18757,
+        "color": "#00BFFF"
+      },
+      {
+        "name": "Kulman Ghising",
+        "party": "Ujyaalo Nepal",
+        "votes": 10334,
+        "color": "#FFD700"
+      }
+    ],
+    "Chitwan-2": [
+      {
+        "name": "Raju Nath Pandey",
+        "party": "RSP",
+        "votes": 18757,
+        "color": "#00BFFF"
+      },
+      {
+        "name": "Kulman Ghising",
+        "party": "Ujyaalo Nepal",
+        "votes": 10334,
+        "color": "#FFD700"
+      }
+    ]
+  }
+}

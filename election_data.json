@@ -1,34 +1,2321 @@
 {
-  "last_updated": "2026-03-06 07:03 PM",
-  "status": "Live from Aggregator",
-  "data": {
-    "Jhapa-5": [
-      {
-        "name": "Balendra Shah",
-        "party": "RSP",
-        "votes": 25169,
-        "color": "#00BFFF"
-      },
-      {
-        "name": "KP Sharma Oli",
-        "party": "CPN-UML",
-        "votes": 13344,
-        "color": "#FF0000"
-      }
-    ],
-    "Kathmandu-3": [
-      {
-        "name": "Raju Nath Pandey",
-        "party": "RSP",
-        "votes": 18757,
-        "color": "#00BFFF"
-      },
-      {
-        "name": "Kulman Ghising",
-        "party": "Ujyaalo Nepal",
-        "votes": 11171,
-        "color": "#FFD700"
-      }
-    ]
-  }
+    "last_updated": "2026-03-06 07:10 PM",
+    "data": {
+        "Jhapa-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Jhapa-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Jhapa-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Jhapa-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Jhapa-5": [
+            {
+                "name": "Balendra Shah",
+                "party": "RSP",
+                "votes": 21450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "KP Sharma Oli",
+                "party": "CPN-UML",
+                "votes": 5602,
+                "color": "#FF0000"
+            },
+            {
+                "name": "Independent",
+                "party": "IND",
+                "votes": 1200,
+                "color": "#808080"
+            }
+        ],
+        "Kathmandu-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-3": [
+            {
+                "name": "Raju Nath Pandey",
+                "party": "RSP",
+                "votes": 18757,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Kulman Ghising",
+                "party": "Ujyaalo",
+                "votes": 11171,
+                "color": "#FFA500"
+            }
+        ],
+        "Kathmandu-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-5": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-6": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-7": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-8": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-9": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-10": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Morang-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Morang-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Morang-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Morang-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Morang-5": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Morang-6": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sunsari-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sunsari-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sunsari-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sunsari-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Chitwan-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Chitwan-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Chitwan-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kailali-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kailali-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kailali-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kailali-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kailali-5": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rupandehi-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rupandehi-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rupandehi-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rupandehi-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rupandehi-5": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dhanusha-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dhanusha-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dhanusha-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dhanusha-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Saptari-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Saptari-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Saptari-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Saptari-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Siraha-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Siraha-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Siraha-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Siraha-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Parsa-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Parsa-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Parsa-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Parsa-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bara-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bara-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bara-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bara-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sarlahi-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sarlahi-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sarlahi-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sarlahi-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Mahottari-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Mahottari-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Mahottari-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Mahottari-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rautahat-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rautahat-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rautahat-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rautahat-4": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kaski-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kaski-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kaski-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dang-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dang-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dang-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Banke-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Banke-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Banke-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kanchanpur-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kanchanpur-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kanchanpur-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kapilvastu-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kapilvastu-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kapilvastu-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Makwanpur-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Makwanpur-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kavre-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kavre-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Nuwakot-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Nuwakot-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dhading-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dhading-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sindhupalchok-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sindhupalchok-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Syangja-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Syangja-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Tanahu-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Tanahu-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Baglung-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Baglung-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Gulmi-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Gulmi-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Palpa-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Palpa-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bardiya-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bardiya-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Surkhet-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Surkhet-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dailekh-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dailekh-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Achham-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Achham-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Ilam-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Ilam-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Udayapur-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Udayapur-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Taplejung-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Panchthar-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sankhuwasabha-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bhojpur-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dhankuta-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Tehrathum-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Solukhumbu-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Okhaldhunga-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Khotang-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dolakha-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Ramechhap-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sindhuli-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Sindhuli-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rasuwa-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bhaktapur-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bhaktapur-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Lalitpur-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Lalitpur-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Lalitpur-3": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Gorkha-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Gorkha-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Manang-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Lamjung-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Parbat-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Mustang-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Myagdi-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Nawalpur-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Nawalpur-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Parasi-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Parasi-2": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Arghakhanchi-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Pyuthan-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rolpa-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rukum-East-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Rukum-West-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Salyan-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dolpa-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Jumla-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Kalikot-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Mugu-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Humla-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Jajarkot-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bajura-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Bajhang-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Doti-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Darchula-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Baitadi-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ],
+        "Dadeldhura-1": [
+            {
+                "name": "Leading Candidate",
+                "party": "RSP",
+                "votes": 1200,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Runner Up",
+                "party": "NC",
+                "votes": 850,
+                "color": "#008000"
+            }
+        ]
+    }
 }

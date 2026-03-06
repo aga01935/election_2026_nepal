@@ -183,6 +183,17 @@
         "Sudurpashchim": ["Kailali-1", "Kailali-5", "Kanchanpur-1", "Dadeldhura-1"]
     };
 
+    // Symbol Mapping Extension
+    const partySymbols = {
+        "RSP": "🔔",
+        "CPN-UML": "☀️",
+        "NC": "🌳",
+        "CPN-MC": "☭",
+        "Ujyaalo Nepal": "💡",
+        "RPP": "🚩",
+        "Independent": "👤"
+    };
+
     let currentProvince = "Koshi";
     let currentRegion = "Jhapa-5";
     let chart;
@@ -249,10 +260,17 @@
     function renderChart(data) {
         const ctx = document.getElementById('mainChart').getContext('2d');
         if (chart) chart.destroy();
+
+        // Labels mapped with party symbols
+        const chartLabels = data.map(c => {
+            const symbol = partySymbols[c.party] || "🗳️";
+            return `${symbol} ${c.name} (${c.party})`;
+        });
+
         chart = new Chart(ctx, {
             type: 'bar',
             data: {
-                labels: data.map(c => `${c.name} (${c.party})`),
+                labels: chartLabels,
                 datasets: [{
                     data: data.map(c => c.votes),
                     backgroundColor: data.map(c => c.color),

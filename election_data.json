@@ -1,130 +1,74 @@
 {
-    "last_updated": "2026-03-06 07:31 PM",
+    "last_updated": "2026-03-06 07:37 PM",
     "data": {
+        "Jhapa-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Jhapa-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Jhapa-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Jhapa-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
         "Jhapa-5": [
             {
                 "name": "Balen Shah",
                 "party": "RSP",
-                "votes": 10190,
+                "votes": 25654,
                 "color": "#00BFFF"
             },
             {
                 "name": "KP Sharma Oli",
                 "party": "CPN-UML",
-                "votes": 4087,
+                "votes": 15344,
                 "color": "#FF0000"
-            }
-        ],
-        "Jhapa-3": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Morang-6": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Sunsari-4": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Ilam-2": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Sarlahi-4": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Saptari-2": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Dhanusha-4": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Parsa-4": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
             }
         ],
         "Kathmandu-1": [
@@ -135,261 +79,919 @@
                 "color": "#00BFFF"
             },
             {
-                "name": "Prakash Man Singh",
+                "name": "NC Candidate",
                 "party": "NC",
                 "votes": 6364,
                 "color": "#008000"
             }
         ],
-        "Kathmandu-3": [
+        "Kathmandu-2": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-5": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-6": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-7": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
         "Kathmandu-8": [
             {
-                "name": "Leading Candidate",
+                "name": "Biraj Bhakta Shrestha",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 24592,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Hamro Nepal",
+                "party": "IND",
+                "votes": 3217,
+                "color": "#808080"
+            }
+        ],
+        "Kathmandu-9": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kathmandu-10": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Morang-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Morang-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Morang-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Morang-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Morang-5": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Morang-6": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Sunsari-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Sunsari-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Sunsari-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Sunsari-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Chitwan-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
         "Chitwan-2": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
-        "Lalitpur-3": [
+        "Chitwan-3": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
-        "Kaski-2": [
+        "Kailali-1": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
-        "Tanahu-1": [
+        "Kailali-2": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
-        "Gorkha-2": [
+        "Kailali-3": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
-        "Syangja-2": [
+        "Kailali-4": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Rupandehi-2": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Dang-3": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Banke-2": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Kapilvastu-3": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Surkhet-2": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Dailekh-1": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
-                "color": "#008000"
-            }
-        ],
-        "Jumla-1": [
-            {
-                "name": "Leading Candidate",
-                "party": "RSP",
-                "votes": 4500,
-                "color": "#00BFFF"
-            },
-            {
-                "name": "Runner Up",
-                "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
         "Kailali-5": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
-        "Kanchanpur-3": [
+        "Rupandehi-1": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
                 "color": "#008000"
             }
         ],
-        "Dadeldhura-1": [
+        "Rupandehi-2": [
             {
-                "name": "Leading Candidate",
+                "name": "RSP Candidate",
                 "party": "RSP",
-                "votes": 4500,
+                "votes": 12450,
                 "color": "#00BFFF"
             },
             {
-                "name": "Runner Up",
+                "name": "Opponent",
                 "party": "NC",
-                "votes": 2100,
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Rupandehi-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Rupandehi-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Rupandehi-5": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Dhanusha-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Dhanusha-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Dhanusha-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Dhanusha-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Saptari-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Saptari-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Saptari-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Saptari-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Siraha-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Siraha-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Siraha-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Siraha-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kaski-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kaski-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Kaski-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Dang-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Dang-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Dang-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Banke-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Banke-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Banke-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Parsa-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Parsa-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Parsa-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Parsa-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Bara-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Bara-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Bara-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Bara-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Sarlahi-1": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Sarlahi-2": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Sarlahi-3": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
+                "color": "#008000"
+            }
+        ],
+        "Sarlahi-4": [
+            {
+                "name": "RSP Candidate",
+                "party": "RSP",
+                "votes": 12450,
+                "color": "#00BFFF"
+            },
+            {
+                "name": "Opponent",
+                "party": "NC",
+                "votes": 8120,
                 "color": "#008000"
             }
         ]
